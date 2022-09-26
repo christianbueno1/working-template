@@ -33,6 +33,7 @@ body {
     /* width: 1450px; */
     grid-gap: 2.25rem;
     /* margin: 0 auto; */
+    color: var(--secondary-color);
     
 }
 .cardd {
